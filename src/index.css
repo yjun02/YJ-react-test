@@ -19,3 +19,7 @@ code {
     transition: 0.2s;
     color: aqua;
 }
+
+.App {
+    text-align: center;
+}
